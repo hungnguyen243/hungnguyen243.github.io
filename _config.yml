@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: Hung Nguyen Personal Website
+title: Hung Nguyen
 
 # Your name to show in the footer
-author: Some Person
+author: Hung Nguyen
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Work Experience:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+  Resume:
 
 # --- Logo --- #
 
